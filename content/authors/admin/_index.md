@@ -31,7 +31,7 @@ education:
     - course: Magistère de Biologie
       institution: Université Paris - Saclay
       year: 2018 - 2021
-- course: BSc in Health Science
+    - course: BSc in Health Science
       institution: Université Paris - Saclay
       year: 2016 - 2019
 
