@@ -24,6 +24,12 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
 
+appearance:
+  theme_day: forest
+  theme_night: forest
+  font: minimal
+  font_size: L
+
 ############################
 ## ADVANCED
 ############################
@@ -69,9 +75,3 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
-
-appearance:
-  theme_day: forest
-  theme_night: forest
-  font: minimal
-  font_size: L
