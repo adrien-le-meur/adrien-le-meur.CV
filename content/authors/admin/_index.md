@@ -70,6 +70,6 @@ email: ''
 highlight_name: true
 ---
 
-I am a bioinformatic engineer.
+I am a bioinformatic engineer. Website under construction.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
