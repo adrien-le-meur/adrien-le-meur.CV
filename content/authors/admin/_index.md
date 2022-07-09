@@ -25,15 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Bioinformatics
+      institution: Université Paris - Saclay
+      year: 2019 - 2021
+    - course: Magistère de Biologie
+      institution: Université Paris - Saclay
+      year: 2018 - 2021
+- course: BSc in Health Science
+      institution: Université Paris - Saclay
+      year: 2016 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
