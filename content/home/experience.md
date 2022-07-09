@@ -29,7 +29,6 @@ experience:
     date_end: '2022-01-01'
     description: |2-
         Responsibilities include:
-
         * Building state-of-the-art bioinformatic pipeline
         * Investigating *M. tuberculosis* evolution
 
