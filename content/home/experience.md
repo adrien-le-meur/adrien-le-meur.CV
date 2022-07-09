@@ -40,6 +40,13 @@ experience:
     description: |2-
         Evaluating phylogenetic placement softwares for caracterisation of pathogen DNA in ancient metagenomic sample
 
+  - title: Intern
+    company: Team Molecular Biology, Lab. Institute for Integrative Biology of the Cell
+    location: France
+    date_start: '2018-05-01'
+    date_end: '2018-08-01'
+    description: |2-
+        Investigating underlying factors involved in the apparition of *de novo* genes
 
 
 design:
