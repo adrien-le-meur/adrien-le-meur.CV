@@ -19,8 +19,8 @@ bio: My research interests include evolution, bacteria and (meta)genomics
 # Interests to show in About widget
 interests:
   - Evolution
-  - Prokaryotes diversity
-  - Genomics
+  - Prokaryotic Diversity
+  - (Meta)Genomics
 
 # Education to show in About widget
 education:
@@ -28,7 +28,7 @@ education:
     - course: MSc in Bioinformatics
       institution: Université Paris - Saclay
       year: 2019 - 2021
-    - course: Magistère de Biologie
+    - course: Biology Magister
       institution: Université Paris - Saclay
       year: 2018 - 2021
     - course: BSc in Health Science
