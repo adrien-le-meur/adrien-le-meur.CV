@@ -3,9 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Adrien Le Meur CV
+title: Adrien Le Meur
 baseURL: 'https://adrienlemeur.netlify.app/'
-URL: 'https://adrienlemeur.netlify.app/'
 
 ############################
 ## LANGUAGE
@@ -31,7 +30,6 @@ module:
 appearance:
   theme_day: forest
   theme_night: forest
-  font: minimal
   font_size: L
 
 enableGitInfo: false
