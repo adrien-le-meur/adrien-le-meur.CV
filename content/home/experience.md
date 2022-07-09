@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Bioinformatic Engineer
-    company: Ecology, Systematic, Evolution
+    company: Team Genetic and Evolutive Ecologie, lab. Ecology, Systematic, Evolution
     location: France
     date_start: '2021-01-01'
     date_end: '2022-01-01'
@@ -31,6 +31,15 @@ experience:
         Responsibilities include:
         * Building state-of-the-art bioinformatic pipeline
         * Investigating *M. tuberculosis* evolution
+
+  - title: Intern
+    company: Metapaleolab, Institut Pasteur Paris
+    location: France
+    date_start: '2019-01-01'
+    date_end: '2019-08-01'
+    description: |2-
+        Evaluating phylogenetic placement softwares for caracterisation of pathogen DNA in ancient metagenomic sample
+
 
 
 design:
