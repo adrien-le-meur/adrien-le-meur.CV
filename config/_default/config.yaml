@@ -4,8 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Adrien Le Meur CV
-baseURL: 'https://example.com/'
-#baseURL: 'https://www.adrienlemeur.ml/' # Website URL
+baseURL: 'https://adrienlemeur.netlify.app/'
 
 ############################
 ## LANGUAGE
